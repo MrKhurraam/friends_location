@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCTnaZwuumomPCU0em4IRCyOk5iIuSBrOo',
-    appId: '1:835779362384:web:5e47e43e1d7b9e5d405b55',
-    messagingSenderId: '835779362384',
-    projectId: 'livelocation-a82f0',
-    authDomain: 'livelocation-a82f0.firebaseapp.com',
-    storageBucket: 'livelocation-a82f0.appspot.com',
-    measurementId: 'G-JE7GE1R4MK',
+    apiKey: '',
+    appId: '1::web:',
+    messagingSenderId: '',
+    projectId: 'livelocation-',
+    authDomain: 'livelocation-.firebaseapp.com',
+    storageBucket: 'livelocation-.appspot.com',
+    measurementId: 'G-',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDSk3W7isg22Z-nxWpJZDGMRXbL1aiJwMk',
-    appId: '1:835779362384:android:662a658e46cd2ec0405b55',
-    messagingSenderId: '835779362384',
-    projectId: 'livelocation-a82f0',
-    storageBucket: 'livelocation-a82f0.appspot.com',
+    apiKey: '-',
+    appId: '1::android:',
+    messagingSenderId: '',
+    projectId: 'livelocation-',
+    storageBucket: 'livelocation-.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCFaRuH8yQdxYQtTiyycI2hSHD6f6bA4IU',
-    appId: '1:835779362384:ios:8024e5bc7c52bbcf405b55',
-    messagingSenderId: '835779362384',
-    projectId: 'livelocation-a82f0',
-    storageBucket: 'livelocation-a82f0.appspot.com',
-    iosClientId: '835779362384-gf1k9u9lcmlrku1u5rmt96pb6vm93rks.apps.googleusercontent.com',
+    apiKey: '',
+    appId: '1::ios:',
+    messagingSenderId: '',
+    projectId: 'livelocation-',
+    storageBucket: 'livelocation-.appspot.com',
+    iosClientId: '-.apps.googleusercontent.com',
     iosBundleId: 'com.example.liveFriendsLocation',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCFaRuH8yQdxYQtTiyycI2hSHD6f6bA4IU',
-    appId: '1:835779362384:ios:8024e5bc7c52bbcf405b55',
-    messagingSenderId: '835779362384',
-    projectId: 'livelocation-a82f0',
-    storageBucket: 'livelocation-a82f0.appspot.com',
-    iosClientId: '835779362384-gf1k9u9lcmlrku1u5rmt96pb6vm93rks.apps.googleusercontent.com',
+    apiKey: '',
+    appId: '1::ios:',
+    messagingSenderId: '',
+    projectId: 'livelocation-',
+    storageBucket: 'livelocation-.appspot.com',
+    iosClientId: '-.apps.googleusercontent.com',
     iosBundleId: 'com.example.liveFriendsLocation',
   );
 }
